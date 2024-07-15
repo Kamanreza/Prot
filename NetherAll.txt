@@ -3,7 +3,6 @@
         {
             "type": "wireguard",
             "tag": "Warp_Ger_1",
-
             "local_address": [
                 "172.16.0.2/24",
                 "2606:4700:110:8a7d:b553:dd37:ab88:85bf/128"
@@ -21,7 +20,6 @@
         {
             "type": "wireguard",
             "tag": "Nether_1",
-
             "local_address": "10.2.0.2/32",
             "private_key": "6IIenS4YDHqyyqtpgFX/IdFyNGOpaNF9yW0p405yTVw=",
             "server": "185.107.56.69",
@@ -36,7 +34,6 @@
         {
             "type": "wireguard",
             "tag": "Nether2_1",
-
             "local_address": "10.2.0.2/32",
             "private_key": "YNKkw54VemdAOzYxq6hpmyALzVundkwHlqmouZvQNkA=",
             "server": "149.34.244.164",
@@ -51,7 +48,6 @@
         {
             "type": "wireguard",
             "tag": "Nether3_1",
-
             "local_address": "10.2.0.2/32",
             "private_key": "cEvMj1GIsCmSdGz3/s0W+NMB/qqYtfgqC1AZNWMZiWM=",
             "server": "212.8.243.68",
@@ -66,7 +62,6 @@
         {
             "type": "wireguard",
             "tag": "Usa",
-
             "local_address": "10.2.0.2/32",
             "private_key": "4Bezm6khcSIRtiaAkq6nlIZNkAZ57eNzqnpFUW9KdHk=",
             "server": "37.19.221.193",
@@ -81,7 +76,6 @@
         {
             "type": "wireguard",
             "tag": "Warp_Ger_2",
-            "detour": "Warp_2",
             "local_address": [
                 "172.16.0.2/24",
                 "2606:4700:110:8a7d:b553:dd37:ab88:85bf/128"
@@ -200,7 +194,6 @@
         {
             "type": "wireguard",
             "tag": "Warp_Ger_4",
-            "detour": "Warp_4",
             "local_address": [
                 "172.16.0.2/24",
                 "2606:4700:110:8a7d:b553:dd37:ab88:85bf/128"
@@ -218,7 +211,6 @@
         {
             "type": "wireguard",
             "tag": "Nether_4",
-            "detour": "Warp_4",
             "local_address": "10.2.0.2/32",
             "private_key": "6IIenS4YDHqyyqtpgFX/IdFyNGOpaNF9yW0p405yTVw=",
             "server": "185.107.56.69",
@@ -233,7 +225,6 @@
         {
             "type": "wireguard",
             "tag": "Nether2_4",
-            "detour": "Warp_4",
             "local_address": "10.2.0.2/32",
             "private_key": "YNKkw54VemdAOzYxq6hpmyALzVundkwHlqmouZvQNkA=",
             "server": "149.34.244.164",
@@ -248,7 +239,6 @@
         {
             "type": "wireguard",
             "tag": "Nether3_4",
-            "detour": "Warp_4",
             "local_address": "10.2.0.2/32",
             "private_key": "cEvMj1GIsCmSdGz3/s0W+NMB/qqYtfgqC1AZNWMZiWM=",
             "server": "212.8.243.68",
@@ -263,7 +253,6 @@
         {
             "type": "wireguard",
             "tag": "Warp_Ger_5",
-            "detour": "Warp_5",
             "local_address": [
                 "172.16.0.2/24",
                 "2606:4700:110:8a7d:b553:dd37:ab88:85bf/128"
@@ -281,7 +270,6 @@
         {
             "type": "wireguard",
             "tag": "Nether_5",
-            "detour": "Warp_5",
             "local_address": "10.2.0.2/32",
             "private_key": "6IIenS4YDHqyyqtpgFX/IdFyNGOpaNF9yW0p405yTVw=",
             "server": "185.107.56.69",
@@ -296,7 +284,6 @@
         {
             "type": "wireguard",
             "tag": "Nether2_5",
-            "detour": "Warp_5",
             "local_address": "10.2.0.2/32",
             "private_key": "YNKkw54VemdAOzYxq6hpmyALzVundkwHlqmouZvQNkA=",
             "server": "149.34.244.164",
@@ -311,7 +298,6 @@
         {
             "type": "wireguard",
             "tag": "Nether3_5",
-            "detour": "Warp_5",
             "local_address": "10.2.0.2/32",
             "private_key": "cEvMj1GIsCmSdGz3/s0W+NMB/qqYtfgqC1AZNWMZiWM=",
             "server": "212.8.243.68",
@@ -326,7 +312,6 @@
         {
             "type": "wireguard",
             "tag": "Warp_Ger_6",
-            "detour": "Warp_6",
             "local_address": [
                 "172.16.0.2/24",
                 "2606:4700:110:8a7d:b553:dd37:ab88:85bf/128"
@@ -344,7 +329,6 @@
         {
             "type": "wireguard",
             "tag": "Nether_6",
-            "detour": "Warp_6",
             "local_address": "10.2.0.2/32",
             "private_key": "6IIenS4YDHqyyqtpgFX/IdFyNGOpaNF9yW0p405yTVw=",
             "server": "185.107.56.69",
@@ -359,7 +343,6 @@
         {
             "type": "wireguard",
             "tag": "Nether2_6",
-            "detour": "Warp_6",
             "local_address": "10.2.0.2/32",
             "private_key": "YNKkw54VemdAOzYxq6hpmyALzVundkwHlqmouZvQNkA=",
             "server": "149.34.244.164",
@@ -374,7 +357,6 @@
         {
             "type": "wireguard",
             "tag": "Nether3_6",
-            "detour": "Warp_6",
             "local_address": "10.2.0.2/32",
             "private_key": "cEvMj1GIsCmSdGz3/s0W+NMB/qqYtfgqC1AZNWMZiWM=",
             "server": "212.8.243.68",
@@ -389,7 +371,6 @@
         {
             "type": "wireguard",
             "tag": "Warp_Ger_7",
-            "detour": "Warp_7",
             "local_address": [
                 "172.16.0.2/24",
                 "2606:4700:110:8a7d:b553:dd37:ab88:85bf/128"
@@ -406,7 +387,6 @@
         {
             "type": "wireguard",
             "tag": "Nether_7",
-            "detour": "Warp_7",
             "local_address": "10.2.0.2/32",
             "private_key": "6IIenS4YDHqyyqtpgFX/IdFyNGOpaNF9yW0p405yTVw=",
             "server": "185.107.56.69",
@@ -420,7 +400,6 @@
         {
             "type": "wireguard",
             "tag": "Nether2_7",
-            "detour": "Warp_7",
             "local_address": "10.2.0.2/32",
             "private_key": "YNKkw54VemdAOzYxq6hpmyALzVundkwHlqmouZvQNkA=",
             "server": "149.34.244.164",
@@ -434,7 +413,6 @@
         {
             "type": "wireguard",
             "tag": "Nether3_7",
-            "detour": "Warp_7",
             "local_address": "10.2.0.2/32",
             "private_key": "cEvMj1GIsCmSdGz3/s0W+NMB/qqYtfgqC1AZNWMZiWM=",
             "server": "212.8.243.68",
@@ -448,7 +426,6 @@
         {
             "type": "wireguard",
             "tag": "Warp_Ger_8",
-            "detour": "Warp_8",
             "local_address": [
                 "172.16.0.2/24",
                 "2606:4700:110:8a7d:b553:dd37:ab88:85bf/128"
@@ -466,7 +443,6 @@
         {
             "type": "wireguard",
             "tag": "Nether_8",
-            "detour": "Warp_8",
             "local_address": "10.2.0.2/32",
             "private_key": "6IIenS4YDHqyyqtpgFX/IdFyNGOpaNF9yW0p405yTVw=",
             "server": "185.107.56.69",
@@ -481,7 +457,6 @@
         {
             "type": "wireguard",
             "tag": "Nether2_8",
-            "detour": "Warp_8",
             "local_address": "10.2.0.2/32",
             "private_key": "YNKkw54VemdAOzYxq6hpmyALzVundkwHlqmouZvQNkA=",
             "server": "149.34.244.164",
@@ -496,7 +471,6 @@
         {
             "type": "wireguard",
             "tag": "Nether3_8",
-            "detour": "Warp_8",
             "local_address": "10.2.0.2/32",
             "private_key": "cEvMj1GIsCmSdGz3/s0W+NMB/qqYtfgqC1AZNWMZiWM=",
             "server": "212.8.243.68",
