@@ -2,6 +2,23 @@
     "outbounds": [
         {
             "type": "wireguard",
+            "tag": "Warp_1",
+            "local_address": [
+                "172.16.0.2/24",
+                "2606:4700:110:80f6:79ef:9e91:4da8:a71f/128"
+            ],
+            "private_key": "YD2T0Jh5T2Ajsd2XkPqPvrEUjCYrYHfZZ2BszCWdnmU=",
+            "server": "162.159.192.101",
+            "server_port": 880,
+            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+            "reserved": "AAAA",
+            "mtu": 1280,
+            "fake_packets": "10-20",
+            "fake_packets_size": "40-100",
+            "fake_packets_delay": "10-20"
+        },
+        {
+            "type": "wireguard",
             "tag": "Warp_Ger_1",
             "local_address": [
                 "172.16.0.2/24",
