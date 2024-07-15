@@ -123,7 +123,8 @@
     },
 		        {
             "type": "wireguard",
-            "tag": "Nether 🇳🇱",    
+            "tag": "Nether 🇳🇱",
+      "detour": "direct",			
             "local_address": "10.2.0.2/32",
             "private_key": "YNKkw54VemdAOzYxq6hpmyALzVundkwHlqmouZvQNkA=",
             "server": "149.34.244.164",
