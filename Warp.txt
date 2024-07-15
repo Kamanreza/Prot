@@ -108,7 +108,7 @@
     },
     {
       "type": "wireguard",
-      "tag": "Germany 🇩🇪",
+      "tag": "Germany",
       "local_address": [
         "172.16.0.2/24",
         "2606:4700:110:8505:5779:a140:684f:f875/128"
@@ -125,7 +125,7 @@
     },
 		        {
             "type": "wireguard",
-            "tag": "Netherlands 🇳🇱",
+            "tag": "Netherlands",
             "local_address": "10.2.0.2/32",
             "private_key": "YNKkw54VemdAOzYxq6hpmyALzVundkwHlqmouZvQNkA=",
             "server": "149.34.244.164",
